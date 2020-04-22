@@ -4,4 +4,4 @@ This is a simple trading bot made when i was learning Q learning with tensorflow
 
 This is the image of the momdel when it was training on collab.
 
-![Training](Screenshot (196).png)
+![Training](train.png)
